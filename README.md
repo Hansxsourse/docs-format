@@ -23,20 +23,20 @@ One to two paragraph statement about your product and what it does. Add a screen
 
 ![Sample Image](https://via.placeholder.com/1000x450)
 
-# Installation/Developemnt
+# Installation/Development
 
 Imagine a new developer who wants to use/run your project. It's a good practice to write all the tools, dependencies and versions of packages that you have used in your app. You can exclude trivial dependencies and only include that you have used specific to this project. There are chances that the developer might be using a different operating system or an environment.
 
 Operating System 1:
 
 ```
-npm install <something>
+npm install <package-name>
 ```
 
 Operating System 2:
 
 ```
-npm install <something>
+npm install <package-name>
 ```
 Describe how to install all development dependencies and how to run an automated suite. Potentially do this for multiple platforms
 
