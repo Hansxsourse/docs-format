@@ -2,18 +2,16 @@
 
 This repository provides best practices for writing documentation and basic folder structure that has to be followed while writing Node app (or any app in general). In order to write documentation on GitHub, you have to first understand Markdown, a standard used by GitHub to accept documentation. 
 
-Learn more about Markdown [here](https://en.wikipedia.org/wiki/Markdown)
-
-Learn how to use Markdown [here](https://www.markdowntutorial.com/)
-
-Find Markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Learn more about Markdown [here](https://en.wikipedia.org/wiki/Markdown)
+* Learn how to use Markdown [here](https://www.markdowntutorial.com/)
+* Find Markdown cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Examples of a good documentation:
 * [Node.js](https://github.com/nodejs/node) GitHub repository
 * [React.js](https://github.com/facebook/react) GitHub repository
 * [Bootstrap](https://github.com/twbs/bootstrap) GitHub repository
 
-> Ignore the above paragraph while writing your documentation.
+> Do not include the above paragraph in your documentation.
 
 ---
 
@@ -69,7 +67,7 @@ Copyright(c) {year of production}, [Link to your company/organisation](https://w
 
 Add a few lines about who can use your open-source project, its liabilites and legal content (if necessary). Use can use either an [MIT License](https://opensource.org/licenses/MIT) or an [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0) for the same. (A sample of MIT License is provided in the template code of this repository)
 
-Learn more about licenses [here](https://help.github.com/articles/licensing-a-repository/)
+Learn more about open-source licenses [here](https://help.github.com/articles/licensing-a-repository/)
 
 # Authors
 List of Authors, Developers and Designers of this app are listed here including yourself.
