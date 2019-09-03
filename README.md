@@ -1,6 +1,10 @@
 # DCT Academy's Documentation Format
 
-This repository provides best practices for writing documentation and basic folder structure that has to be followed while writing Node app (or any app in general). In order to write documentation on GitHub, you have to first understand Markdown, a standard used by GitHub to accept documentation. 
+This repository provides best practices for writing documentation and basic folder structure that has to be followed while writing Node app (or any app in general). 
+
+**Note:** You can use a tool like [README.md Genearator](https://github.com/kefranabg/readme-md-generator) to ease up your process.
+
+In order to write documentation on GitHub, you have to first understand Markdown, a standard used by GitHub to accept documentation. 
 
 * Learn more about Markdown [here](https://en.wikipedia.org/wiki/Markdown)
 * Learn how to use Markdown [here](https://www.markdowntutorial.com/)
